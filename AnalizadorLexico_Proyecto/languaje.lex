@@ -1,4 +1,4 @@
-/* Proyecto Analizador lexico 
+/* Proyecto Analizador lexico Asignatura: Compiladores y Lenguajes
 * Integrantes: Juan Erazo, Luis Unapanta */
 
 package comp;
